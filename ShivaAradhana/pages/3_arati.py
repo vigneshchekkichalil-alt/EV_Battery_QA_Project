@@ -13,3 +13,4 @@ st.subheader("Om Namah Shivaya")
 st.info(
     "The sacred worship is nearing completion. Offer light, devotion, and gratitude to Lord Shiva through Arati."
 )
+
